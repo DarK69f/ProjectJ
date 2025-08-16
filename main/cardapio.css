@@ -68,30 +68,3 @@ nav input[type="text"] {
     font-size: 16px;
     padding-left: 10px;
 }
-
-.introducao {
-    text-align: center;
-    margin: 0px 0;
-}
-
-.introducao img {
-    width: 60%;
-    height: auto;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-    filter: blur(2px) brightness(0.3);
-    z-index: 1;
-}
-
-.introducao h1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff; 
-    background: rgba(0,0,0,0.4); 
-    padding: 10px 20px;
-    border-radius: 10px;
-    font-size: 2em;
-    width: auto;
-    z-index: 2;
-}
